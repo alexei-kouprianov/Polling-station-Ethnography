@@ -54,7 +54,7 @@ for(i in 1:length(ps.UIDs)){
 	xlab="Timeline, unaggregated", 
 	ylab="Cumulated number of voters recorded")
 
-	abline(h=seq(0,1000,100), lty=3, lwd=.75)
+	abline(h=seq(0,2000,100), lty=3, lwd=.75)
 	abline(v=as.POSIXct(breaks.60$timecode), lty=3, lwd=.75)
 
 	rect(xleft=ps.ls[[i]]$ps.lb$timecode, xright=ps.ls[[i]]$ps.le$timecode, ybottom=-5, ytop=1000, col=rgb(0,0,0,.3), border=8)
