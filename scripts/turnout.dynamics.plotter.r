@@ -45,18 +45,45 @@ for(i in 1:length(ps.UIDs)){
 # Control plot # 1
 for(i in 1:length(ps.UIDs)){
 	png(file=paste("../plots/cumul.dyn/", ps.ls[[i]]$ps.raw$PS.UID[1], ".cumul.dyn.png", sep=""), height=500, width=500)
+
 	plot(
 	ps.ls[[i]]$ps.b$timecode, 
 	1:length(ps.ls[[i]]$ps.b$timecode), 
-	type="n", pch=20, 
+	type="n", pch=20, axes=FALSE,
 	main=paste("Turnout dynamics for the Polling Station # ",ps.ls[[i]]$ps.raw$PS.UID[1]," (",round.POSIXt(ps.ls[[i]]$ps.raw$timecode[1], unit="days"),")",sep=""),
 	xlab="Timeline, unaggregated", 
 	ylab="Cumulated number of voters recorded")
+
+	abline(h=seq(0,1000,100), lty=3, lwd=.75)
+	abline(v=as.POSIXct(breaks.60$timecode), lty=3, lwd=.75)
+
 	rect(xleft=ps.ls[[i]]$ps.lb$timecode, xright=ps.ls[[i]]$ps.le$timecode, ybottom=-5, ytop=1000, col=rgb(0,0,0,.3), border=8)
 	points(ps.ls[[i]]$ps.b$timecode, 1:length(ps.ls[[i]]$ps.b$timecode), type="o", pch=20, cex=.5)
 	points(ps.ls[[i]]$ps.bf$timecode, 1:length(ps.ls[[i]]$ps.bf$timecode), type="o", pch=20, col=2, cex=.5)
 	points(ps.ls[[i]]$ps.bm$timecode, 1:length(ps.ls[[i]]$ps.bm$timecode), type="o", pch=20, col=4, cex=.5)
-	legend("bottomright", col=c(1,2,4), lty=1, legend=c("Total","Women","Men"), bty="n")
+
+	cumul.dyn.legend <- legend("bottomright", col=c(1,2,4), lty=1, 
+	legend=c(
+	paste("Total (",length(ps.ls[[i]]$ps.b$timecode),")", sep=""),
+	paste("Women (",length(ps.ls[[i]]$ps.bf$timecode),")", sep=""),
+	paste("Men (",length(ps.ls[[i]]$ps.bm$timecode),")", sep="")
+	), bty="n")
+	rect(xleft=cumul.dyn.legend$rect$left, 
+	xright=cumul.dyn.legend$rect$left+cumul.dyn.legend$rect$w, 
+	ytop=cumul.dyn.legend$rect$top, 
+	ybottom=cumul.dyn.legend$rect$top-cumul.dyn.legend$rect$h, 
+	border=0, col="white")
+	legend("bottomright", col=c(1,2,4), lty=1, 
+	legend=c(
+	paste("Total (",length(ps.ls[[i]]$ps.b$timecode),")", sep=""),
+	paste("Women (",length(ps.ls[[i]]$ps.bf$timecode),")", sep=""),
+	paste("Men (",length(ps.ls[[i]]$ps.bm$timecode),")", sep="")
+	), 
+	bty="n")
+
+	axis(2)
+	axis.POSIXct(1, at=breaks.60$timecode)
+
 	dev.off()
 }
 
