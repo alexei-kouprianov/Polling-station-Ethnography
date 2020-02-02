@@ -13,7 +13,7 @@ The project files are stored in a system of folders.
 
 ## Dataset structure
 
-The dataset is a `.tdv` file with nine columns:
+The dataset is a `.tdv` file with nine columns (originally, a manually prepared transcript of a video record):
 
 - `PS.UID` --- polling station ID (one to four digits);
 - `CAM` --- camera ID (as indicated in the video record, usually K1 or K2);
@@ -21,7 +21,6 @@ The dataset is a `.tdv` file with nine columns:
 - `ACTION.TYPE` --- action type recorded (for now, four action types are processed: "ballot cast", "strange behaviour", "lacune begins", "lacune ends");
 - `GENDER` --- gender (assumed, "f" or "m");
 - `AGE.GROUP` --- age group (assumed, "young" --- "medium" --- "old" or "young" --- "young-medium" --- "medium" --- "medium-old" --- "old");
-- `DB.OPERATOR` --- database operator's name (Firstname Lastname);
+- `DB.OPERATOR` --- database operator's name, i. e. the person who transcribed the video record (Firstname Lastname);
 - `COMMENT` --- any comment;
 - `QUESTION` --- any questions, much the same as the comment.
-
