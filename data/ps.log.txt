@@ -544,16 +544,16 @@ PS.UID	CAM	TIMECODE	ACTION.TYPE	GENDER	AGE.GROUP	DB.OPERATOR	COMMENT
 2112		2019-09-08 11:54:00	ballot cast	m	young	Borys Sharov	with 1 son, who put all the ballots into the box
 2112		2019-09-08 11:54:00	ballot cast	m	young	Borys Sharov	
 2112		2019-09-08 11:54:00	ballot cast	f	young	Borys Sharov	
-2112		08.09.2019 11:54:53	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 11:54:53	ballot cast	m	old	Borys Sharov	
 2112		2019-09-08 11:55:01	ballot cast	f	medium	Borys Sharov	with kids
 2112		2019-09-08 11:55:08	ballot cast	m	medium	Borys Sharov	
 2112		2019-09-08 11:55:37	ballot cast	f	old	Borys Sharov	
 2112		2019-09-08 11:55:58	ballot cast	f	old	Borys Sharov	
 2112		2019-09-08 11:59:25	ballot cast	f	old	Borys Sharov	
-2112		2019-09-08 11:01:02	ballot cast	f	old	Borys Sharov	
-2112		2019-09-08 11:02:48	ballot cast	f	old	Borys Sharov	
-2112		2019-09-08 11:03:32	ballot cast	f	old	Borys Sharov	
-2112		2019-09-08 11:04:14	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 12:01:02	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:02:48	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:03:32	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:04:14	ballot cast	m	young	Borys Sharov	
 2112		2019-09-08 12:05:44	ballot cast	f	medium	Borys Sharov	
 2112		2019-09-08 12:06:53	ballot cast	f	old	Borys Sharov	with a kid
 2112		2019-09-08 12:08:56	ballot cast	m	young	Borys Sharov	
@@ -563,7 +563,7 @@ PS.UID	CAM	TIMECODE	ACTION.TYPE	GENDER	AGE.GROUP	DB.OPERATOR	COMMENT
 2112		2019-09-08 12:12:23	ballot cast	f	young	Borys Sharov	
 2112		2019-09-08 12:12:28	ballot cast	m	young	Borys Sharov	
 2112		2019-09-08 12:12:40	ballot cast	f	old	Borys Sharov	put the ballots into the bo for herself and her friend
-2112		09-09-2019 12:12:40	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:12:40	ballot cast	f	old	Borys Sharov	
 2112		2019-09-08 12:13:30	ballot cast	m	old	Borys Sharov	
 2112		2019-09-08 12:15:32	ballot cast	m	old	Borys Sharov	
 2112		2019-09-08 12:16:10	ballot cast	f	medium	Borys Sharov	
@@ -600,7 +600,7 @@ PS.UID	CAM	TIMECODE	ACTION.TYPE	GENDER	AGE.GROUP	DB.OPERATOR	COMMENT
 2112		2019-09-08 12:40:37	ballot cast	f	medium	Borys Sharov	
 2112		2019-09-08 12:41:25	ballot cast	m	young	Borys Sharov	
 2112		2019-09-08 12:43:13	ballot cast	f	old	Borys Sharov	
-2112		08.09.2019 12:43:41	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:43:41	ballot cast	f	old	Borys Sharov	
 2112		2019-09-08 12:43:54	ballot cast	f	old	Borys Sharov	
 2112		2019-09-08 12:44:06	ballot cast	f	young	Borys Sharov	
 2112		2019-09-08 12:44:31	ballot cast	f	old	Borys Sharov	
@@ -656,7 +656,7 @@ PS.UID	CAM	TIMECODE	ACTION.TYPE	GENDER	AGE.GROUP	DB.OPERATOR	COMMENT
 2112		2019-09-08 13:43:03	ballot cast	f	medium	Borys Sharov	
 2112		2019-09-08 13:43:35	ballot cast	f	medium	Borys Sharov	with a kid
 2112		2019-09-08 13:45:51	ballot cast	f	medium	Borys Sharov	
-2112		2019-09-08 13:37:11	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 13:47:11	ballot cast	f	old	Borys Sharov	
 2112		2019-09-08 13:48:27	ballot cast	m	medium	Borys Sharov	
 2112		2019-09-08 13:48:32	ballot cast	f	medium	Borys Sharov	
 2112		2019-09-08 13:50:51	ballot cast	m	old	Borys Sharov	
@@ -705,7 +705,7 @@ PS.UID	CAM	TIMECODE	ACTION.TYPE	GENDER	AGE.GROUP	DB.OPERATOR	COMMENT
 2112		2019-09-08 14:39:20	ballot cast	f	medium	Borys Sharov	
 2112		2019-09-08 14:45:32	ballot cast	f	old	Borys Sharov	
 2112		2019-09-08 14:51:38	ballot cast	f	old	Borys Sharov	put the ballots for herself and her husband
-2112		09-09-2019 14:51:38	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 14:51:38	ballot cast	m	old	Borys Sharov	
 2112		2019-09-08 14:56:36	ballot cast	f	old	Borys Sharov	
 2112		2019-09-08 15:00:49	ballot cast	f	young	Borys Sharov	
 2112		2019-09-08 15:00:52	ballot cast	f	medium	Borys Sharov	
@@ -734,7 +734,7 @@ PS.UID	CAM	TIMECODE	ACTION.TYPE	GENDER	AGE.GROUP	DB.OPERATOR	COMMENT
 2112		2019-09-08 15:47:19	ballot cast	f	young	Borys Sharov	
 2112		2019-09-08 15:47:29	ballot cast	f	medium	Borys Sharov	
 2112		2019-09-08 15:57:04	ballot cast	m	old	Borys Sharov	put the ballots into the box for himself and his wife
-2112		09-09-2019 15:57:04	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 15:57:04	ballot cast	f	medium	Borys Sharov	
 2112		2019-09-08 15:57:15	ballot cast	m	young	Borys Sharov	
 2112		2019-09-08 15:57:21	ballot cast	f	young	Borys Sharov	
 2112		2019-09-08 16:00:20	ballot cast	m	medium	Borys Sharov	
