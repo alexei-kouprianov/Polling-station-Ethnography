@@ -163,9 +163,13 @@ for(i in 1:length(ps.UIDs)){
 	dev.off()
 }
 
+timecode.hist.60.contingency <- NULL
+
 for(i in 1:length(ps.UIDs)){
-timecode.hist.60.contingency <- rbind.data.frame(ps.timecode.hist.60.ls[[i]]$counts)
+timecode.hist.60.contingency <- rbind.data.frame(timecode.hist.60.contingency, ps.timecode.hist.60.ls[[i]]$counts)
 }
 
 rownames(timecode.hist.60.contingency) <- ps.UIDs
 colnames(timecode.hist.60.contingency) <- c("HR.08.09","HR.09.10","HR.10.11","HR.11.12","HR.12.13","HR.13.14","HR.14.15","HR.15.16","HR.16.17","HR.17.18","HR.18.19","HR.19.20","HR.20.21")
+
+if(sum(timecode.hist.60.contingency$HR.20.21)==0){timecode.hist.60.contingency$HR.20.21 <- NULL}

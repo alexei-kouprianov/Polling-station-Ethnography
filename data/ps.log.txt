@@ -1,0 +1,848 @@
+PS.UID	CAM	TIMECODE	ACTION.TYPE	GENDER	AGE.GROUP	DB.OPERATOR	COMMENT
+1559	K2	2019-09-08 8:36:07	ballot cast	m	old	Alexei Kouprianov	Timecode corresponds to the moment the voter started throwing his first ballot into the box
+1559	K2	2019-09-08 8:37:03	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 8:38:28	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 8:45:47	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 8:50:58	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 8:55:17	lacune begins			Alexei Kouprianov	At the beginning of the lacune a medium aged woman was in the polling booth; apparently she voted inbetween
+1559	K2	2019-09-08 9:09:17	lacune ends			Alexei Kouprianov	Number of voters within the 15 min lacune is unknown
+1559	K2	2019-09-08 9:11:54	ballot cast	f	medium	Alexei Kouprianov	While the old lady was in the rightmost polling booth, the woman in black was standing immediately to the right of the booth (it is not clear whether she communicated with the old lady in the booth or not but she was clearly under the sheets covering the booth). The old lady casts three (!) folded sheets of paper. A big one and two smaller ones.
+1559	K2	2019-09-08 9:12:00	ballot cast	f	old	Alexei Kouprianov	While the old lady was in the rightmost polling booth, the woman in black was standing immediately to the right of the booth (it is not clear whether she communicated with the old lady in the booth or not but she was clearly under the sheets covering the booth). The old lady casts three (!) folded sheets of paper. A big one and two smaller ones.
+1559	K2	2019-09-08 9:13:55	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 9:18:34	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 9:23:00	ballot cast	m	medium	Alexei Kouprianov	One of the observers, tall, in black
+1559	K2	2019-09-08 9:27:02	ballot cast	m	medium	Alexei Kouprianov	Police officer
+1559	K2	2019-09-08 9:29:21	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 9:31:23	ballot cast	f	old	Alexei Kouprianov	A kid throws the ballots for the old lady. Age proportions looks more likely a grandma and a grandson.
+1559	K2	2019-09-08 9:34:53	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 9:37:49	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 9:37:58	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 9:39:43	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 9:40:31	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 9:42:20	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 9:47:20	ballot cast	f	young	Alexei Kouprianov	The woman tried to open the lid of the ballot box. An observer explained her about the hole and she put the ballots the right way.
+1559	K2	2019-09-08 9:48:23	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 9:53:26	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 9:53:46	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 9:54:23	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 9:54:35	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 9:54:56	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 9:55:21	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 9:55:42	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 9:56:45	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 9:57:07	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 9:58:47	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 9:59:45	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 10:03:16	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 10:05:20	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 10:05:30	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 10:09:20	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 10:13:00	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 10:13:26	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 10:19:08	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 10:20:49	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 10:20:55	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 10:24:41	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 10:24:50	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 10:27:00	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 10:27:14	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 10:27:31	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 10:27:41	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 10:29:09	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 10:30:54	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 10:39:01	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 10:47:06	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 10:47:55	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 10:48:10	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 10:48:27	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 10:53:37	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 10:54:35	ballot cast	f	medium	Alexei Kouprianov	The teenage girl who came with the medium aged woman throws ballots for her.
+1559	K2	2019-09-08 10:55:46	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 10:56:04	ballot cast	f	medium	Alexei Kouprianov	The woman came with a girl but threw the ballots herself.
+1559	K2	2019-09-08 10:57:21	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 10:57:39	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 10:59:10	ballot cast	f	young	Alexei Kouprianov	The kid girl who came with the young woman throws the ballot for her, THe woman holds the girl above the box.
+1559	K2	2019-09-08 10:59:30	ballot cast	m	old	Alexei Kouprianov	The kid girl throws the ballot for a man with grey hair who came with the girl and wit the young woman (see previous line). The woman holds the girl above the box
+1559	K2	2019-09-08 10:59:46	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 11:03:18	ballot cast	f	old	Alexei Kouprianov	2:27:11 of the recording = 11:00:01 Here I quit for a while
+1559	K2	2019-09-08 11:03:37	ballot cast	m	medium	Alexei Kouprianov	The medium-aged man gives his ballots to two boys who throw for him (see next line). Clearly a couple with kids.
+1559	K2	2019-09-08 11:03:57	ballot cast	f	medium	Alexei Kouprianov	The medium-aged woman gives his ballots to two boys who throw for him (see previous line). Clearly a couple with kids.
+1559	K2	2019-09-08 11:04:21	ballot cast	m	old	Alexei Kouprianov	The accompanying boy throws for him.
+1559	K2	2019-09-08 11:11:05	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 11:11:21	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 11:11:21	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 11:12:07	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 11:13:07	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 11:13:24	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 11:16:06	ballot cast	f	old	Alexei Kouprianov	A younger woman helps the very old lady to throw the ballots than leads her to sit on the chairs by the wall, while going to the booth herself
+1559	K2	2019-09-08 11:18:19	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 11:18:39	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 11:19:42	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 11:20:11	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 11:20:43	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 11:22:47	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 11:23:07	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 11:24:36	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 11:26:05	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 11:26:27	ballot cast	f	old	Alexei Kouprianov	There is a microlacune at 112620-112627 one woman apparently throws her ballots right amidst it.
+1559	K2	2019-09-08 11:28:30	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 11:29:19	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 11:29:40	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 11:31:08	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 11:34:56	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 11:35:08	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 11:37:25	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 11:37:37	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 11:40:53	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 11:41:00	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 11:42:58	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 11:43:26	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 11:43:38	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 11:43:53	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 11:45:34	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 11:46:39	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 11:47:56	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 11:48:23	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 11:48:34	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 11:48:44	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 11:48:58	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 11:51:07	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 11:51:36	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 11:51:50	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 11:53:11	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 11:54:50	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 11:56:56	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 11:57:14	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 11:58:54	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 11:59:26	ballot cast	f	medium	Alexei Kouprianov	120000 = 32711
+1559	K2	2019-09-08 12:01:31	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 12:01:47	ballot cast	f	young	Alexei Kouprianov	The man standing by gives a way to the women (the old lady and two other approaching).
+1559	K2	2019-09-08 12:02:06	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 12:02:09	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 12:06:22	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 12:07:20	strange behaviour			Alexei Kouprianov	A young man gets into the same booth with another young man (rightmost)
+1559	K2	2019-09-08 12:08:33	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 12:08:40	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 12:08:45	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 12:08:49	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 12:10:52	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 12:12:26	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 12:12:26	ballot cast	f	medium	Alexei Kouprianov	The young woman throws the ballots for the medium aged woman in pink jacket.
+1559	K2	2019-09-08 12:13:20	ballot cast	f	medium	Alexei Kouprianov	Gender assumption doubtful
+1559	K2	2019-09-08 12:13:50	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 12:15:11	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 12:15:30	ballot cast	f	young	Alexei Kouprianov	The girl throws the ballot for the young woman with three kids (the girl is the medium kid, with an older boy and a toddler); The second ballot was thrown by the boy at about 121712
+1559	K2	2019-09-08 12:15:32	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 12:16:58	ballot cast	f	medium	Alexei Kouprianov	The younger woman throws the ballot for the medium aged woman.
+1559	K2	2019-09-08 12:19:38	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 12:20:06	ballot cast	f	young	Alexei Kouprianov	with two kids
+1559	K2	2019-09-08 12:22:15	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 12:24:49	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 12:27:19	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 12:32:31	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 12:33:55	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 12:36:15	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 12:37:45	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 12:38:14	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 12:40:03	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 12:40:47	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 12:42:20	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 12:44:00	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 12:47:32	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 12:52:56	ballot cast	f	old	Alexei Kouprianov	The boy throws the ballot for her
+1559	K2	2019-09-08 12:53:49	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 12:54:33	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 12:55:05	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 12:55:42	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 12:56:36	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 12:57:31	ballot cast	f	old	Alexei Kouprianov	Gender assumption doubtful
+1559	K2	2019-09-08 13:02:43	ballot cast	f	old	Alexei Kouprianov	42710 = 130000; Appears from the booth with a aged man
+1559	K2	2019-09-08 13:02:48	ballot cast	m	old	Alexei Kouprianov	Appeared from the booth with the previous old lady
+1559	K2	2019-09-08 13:05:13	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 13:09:13	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 13:12:20	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 13:12:46	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 13:13:21	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 13:13:59	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 13:17:18	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 13:19:13	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 13:19:28	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 13:21:58	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 13:25:04	ballot cast	f	old	Alexei Kouprianov	The companion throws ballots for herself and for a disabled lady she accompanies
+1559	K2	2019-09-08 13:25:17	ballot cast	f	medium	Alexei Kouprianov	The companion throws ballots for herself and for a disabled lady she accompanies
+1559	K2	2019-09-08 13:27:41	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 13:28:47	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 13:29:22	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 13:34:14	ballot cast	f	medium	Alexei Kouprianov	The girl accompanying the woman throws ballots for the latter
+1559	K2	2019-09-08 13:35:21	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 13:39:27	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 13:40:19	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 13:41:31	ballot cast	f	medium	Alexei Kouprianov	The girl accompanying the woman throws ballots for the latter
+1559	K2	2019-09-08 13:41:47	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 13:42:22	ballot cast	m	medium	Alexei Kouprianov	The couple was in the cabin together, the man throws ballots for both
+1559	K2	2019-09-08 13:42:22	ballot cast	f	young	Alexei Kouprianov	The couple was in the cabin together, the man throws ballots for both
+1559	K2	2019-09-08 13:42:59	ballot cast	f	medium	Alexei Kouprianov	51000
+1559	K2	2019-09-08 13:47:39	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 13:49:18	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 13:51:23	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 13:52:31	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 13:53:23	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 13:54:22	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 13:54:31	ballot cast	f	young	Alexei Kouprianov	The little girl that came with this woman does not throw the ballot for her.
+1559	K2	2019-09-08 13:54:53	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 13:55:06	ballot cast	f	old	Alexei Kouprianov	The woman does not go to the booth, she throws the governeur~s ballot right away. Then studies the municipal ballot. At about 13:56:27 she leaves the room with the municipal ballot and the head of the commission. She re-appears at 14:04:57 to throw the municipal ballot.
+1559	K2	2019-09-08 13:55:49	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 13:55:56	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 13:57:27	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 13:59:58	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 14:04:02	ballot cast	m	young	Alexei Kouprianov	052711 = 140001
+1559	K2	2019-09-08 14:05:10	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 14:05:17	ballot cast	f	medium	Alexei Kouprianov	The man from the previous record helps to put the ballots into the box.
+1559	K2	2019-09-08 14:06:15	ballot cast	m	medium	Alexei Kouprianov	The little girl that came with this man does not throw the ballot for him.
+1559	K2	2019-09-08 14:06:46	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 14:09:01	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 14:10:14	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 14:10:46	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 14:16:20	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 14:16:27	ballot cast	f	medium	Alexei Kouprianov	It seems that this woman throws the ballots for both herself and the older woman (next line).
+1559	K2	2019-09-08 14:16:27	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 14:18:35	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 14:19:33	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 14:20:05	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 14:21:50	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 14:23:43	ballot cast	m	medium	Alexei Kouprianov	Apears in the hall around 14:15 gnder assumption dubious.
+1559	K2	2019-09-08 14:24:14	ballot cast	f	young	Alexei Kouprianov	The boy throws the ballots for the woman
+1559	K2	2019-09-08 14:29:35	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 14:34:08	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 14:34:21	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 14:35:42	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 14:36:14	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 14:36:30	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 14:36:55	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 14:37:17	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 14:38:02	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 14:38:13	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 14:39:31	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 14:40:23	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 14:41:17	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 14:42:56	strange behaviour	f	old	Alexei Kouprianov	Woman leaves the station with her ballots without casting them. Re-appears at 14:52:16
+1559	K2	2019-09-08 14:43:02	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 14:46:11	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 14:46:40	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 14:49:00	ballot cast	m	young	Alexei Kouprianov	A little girl that came with this man and another young-to-medium aged woman (for some reason she does not vote) throws the ballots for him. What is about that woman ballots?
+1559	K2	2019-09-08 14:52:16	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 14:56:30	ballot cast	f	old	Alexei Kouprianov	Crosses herself othodox way after throwing a ballot
+1559	K2	2019-09-08 14:58:27	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 14:58:31	ballot cast	m	young	Alexei Kouprianov	150001=062711
+1559	K2	2019-09-08 15:04:29	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 15:08:10	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 15:08:19	ballot cast	f	old	Alexei Kouprianov	The previous woman helps this one throwing the ballots for her
+1559	K2	2019-09-08 15:08:36	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 15:08:49	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 15:09:11	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 15:09:38	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 15:12:21	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 15:13:42	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 15:14:13	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 15:15:36	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 15:17:52	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 15:21:51	ballot cast	f	old	Alexei Kouprianov	Rather, medium-old, little girl that came with her and with the young-medium man (two lines down) throws ballots for her.
+1559	K2	2019-09-08 15:22:17	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 15:23:10	ballot cast	m	young	Alexei Kouprianov	Rather, young-medium, little girl that came with him and with the medium-old woman (two lines up) throws ballots for him.
+1559	K2	2019-09-08 15:25:52	ballot cast	m	old	Alexei Kouprianov	medium-old
+1559	K2	2019-09-08 15:26:48	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 15:27:01	ballot cast	f	old	Alexei Kouprianov	medium-old
+1559	K2	2019-09-08 15:27:30	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 15:27:35	ballot cast	f	young	Alexei Kouprianov	Rather young-medium, the little girl that came with her throws the ballot for her.
+1559	K2	2019-09-08 15:32:16	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 15:32:24	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 15:35:18	ballot cast	m	young	Alexei Kouprianov	young-medium?
+1559	K2	2019-09-08 15:36:31	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 15:36:44	strange behaviour			Alexei Kouprianov	The president of the commission argues with some people (presumably observers) at a small table to the left
+1559	K2	2019-09-08 15:39:46	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 15:41:38	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 15:42:42	strange behaviour	f	old	Alexei Kouprianov	An old / medium old woman consults another person in a different booth. Walks back and forth.
+1559	K2	2019-09-08 15:43:20	strange behaviour	f	old	Alexei Kouprianov	An old / medium old woman consults another person in a different booth. Walks back and forth. See two lines below.
+1559	K2	2019-09-08 15:44:10	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 15:44:30	ballot cast	f	young	Alexei Kouprianov	young-medium aged woman throws ballots for herself, her kid (boy) does not take part, apparently, she is a relative to the woman in red jacket who consulted her while in the booth
+1559	K2	2019-09-08 15:45:22	ballot cast	m	young	Alexei Kouprianov	can be y-m
+1559	K2	2019-09-08 15:45:37	ballot cast	m	young	Alexei Kouprianov	can be y-m, throws for himself, his kid (boy) does not help
+1559	K2	2019-09-08 15:48:43	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 15:49:22	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 15:49:36	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 15:51:37	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 15:52:56	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 15:53:20	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 15:53:23	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 15:53:34	strange behaviour			Alexei Kouprianov	the home-voting party departs
+1559	K2	2019-09-08 15:55:04	ballot cast	f	medium	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 15:59:00	ballot cast	m	old	Alexei Kouprianov	160000 = 072710
+1559	K2	2019-09-08 16:03:00	ballot cast	f	old	Alexei Kouprianov	The little girl that came with the old lady throws the ballot for her.
+1559	K2	2019-09-08 16:03:53	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 16:08:31	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 16:09:01	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 16:09:20	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 16:10:57	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 16:12:07	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 16:15:19	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 16:16:42	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 16:18:11	ballot cast	f	medium	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 16:20:00	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 16:21:12	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 16:21:32	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 16:21:36	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 16:22:18	ballot cast	f	old	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 16:23:17	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 16:23:46	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 16:26:11	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 16:26:17	ballot cast	f	medium	Alexei Kouprianov	could be m-o; The woman throws the ballots right without going to the booth.
+1559	K2	2019-09-08 16:26:22	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 16:27:06	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 16:31:21	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 16:33:13	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 16:33:28	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 16:36:34	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 16:38:34	ballot cast	m	old	Alexei Kouprianov	gender assumption doubtful
+1559	K2	2019-09-08 16:40:37	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 16:45:03	ballot cast	f	medium	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 16:45:11	ballot cast	f	medium	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 16:48:48	ballot cast	f	medium	Alexei Kouprianov	could be y-m
+1559	K2	2019-09-08 16:48:56	ballot cast	f	medium	Alexei Kouprianov	could be y-m; the boy who came with this woman throws the ballots for her
+1559	K1	2019-09-08 16:57:07	ballot cast	m	medium	Alexei Kouprianov	5 sec lacunes do not coincide, it seems, in the two tapes
+1559	K2	2019-09-08 17:00:49	ballot cast	f	young	Alexei Kouprianov	170000 = 082710
+1559	K2	2019-09-08 17:02:40	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 17:02:48	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 17:02:55	ballot cast	f	old	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 17:03:21	ballot cast	m	medium	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 17:06:15	ballot cast	m	medium	Alexei Kouprianov	could be y-m
+1559	K2	2019-09-08 17:08:18	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 17:08:53	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 17:16:35	ballot cast	m	medium	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 17:17:23	strange behaviour			Alexei Kouprianov	A couple leaves the room upon receiving the blank ballots. They re-emerge at 17:21:32 and go to the booth.
+1559	K2	2019-09-08 17:18:21	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 17:22:04	ballot cast	m	old	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 17:22:29	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 17:24:42	strange behaviour			Alexei Kouprianov	A couple leaves the room upon receiving the blank ballots. Then, the man re-appears, goes to the booth, leaves with some paper in hand, without throwing the ballot again at 17:26:17; at 17:26:40 they both re-enter, she holds the smaller ballot, he the larger, then they go out again; At 17:31 they both re-appear to cast the ballot.
+1559	K2	2019-09-08 17:28:12	strange behaviour			Alexei Kouprianov	The president of the commission argues with a voter over the ballot box. Apparently he is asking a comittee member whether the man reeceived the ballot at their station. Upon the answer from the leftmost table along the long wall, the presidents unblocks the box and the procedure is resumed.
+1559	K2	2019-09-08 17:28:23	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 17:30:05	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 17:31:14	ballot cast	f	medium	Alexei Kouprianov	could be y-m?
+1559	K2	2019-09-08 17:32:24	ballot cast	f	medium	Alexei Kouprianov	could be y-m?
+1559	K2	2019-09-08 17:32:38	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 17:33:40	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 17:37:32	ballot cast	f	medium	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 17:38:48	ballot cast	f	medium	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 17:40:45	ballot cast	f	medium	Alexei Kouprianov	could be y-m
+1559	K2	2019-09-08 17:41:24	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 17:47:36	ballot cast	f	old	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 17:54:34	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 17:56:49	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 17:57:23	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 17:57:34	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 17:58:21	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 17:58:26	ballot cast	f	young	Alexei Kouprianov	180000 = 092710
+1559	K2	2019-09-08 18:01:17	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 18:01:24	ballot cast	f	medium	Alexei Kouprianov	could be y-m
+1559	K2	2019-09-08 18:01:40	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 18:04:42	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 18:05:22	ballot cast	f	medium	Alexei Kouprianov	could be y-m
+1559	K2	2019-09-08 18:06:45	ballot cast	m	medium	Alexei Kouprianov	could be y-m
+1559	K2	2019-09-08 18:06:56	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 18:07:57	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 18:09:53	ballot cast	f	medium	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 18:10:07	ballot cast	m	young	Alexei Kouprianov	colud be y-m; A couple with a very small kid.
+1559	K2	2019-09-08 18:11:29	ballot cast	f	young	Alexei Kouprianov	A couple with a very small kid.
+1559	K2	2019-09-08 18:13:03	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 18:20:51	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 18:23:10	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 18:24:15	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 18:28:19	ballot cast	f	young	Alexei Kouprianov	A couple with a very small kid.
+1559	K2	2019-09-08 18:28:41	ballot cast	m	young	Alexei Kouprianov	A couple with a very small kid.
+1559	K2	2019-09-08 18:33:13	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 18:33:46	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 18:34:35	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 18:39:26	ballot cast	m	old	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 18:42:03	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 18:47:54	ballot cast	m	old	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 18:48:43	ballot cast	f	medium	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 18:49:16	ballot cast	m	old	Alexei Kouprianov	
+1559	K2	2019-09-08 18:49:38	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 18:51:45	ballot cast	m	medium	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 18:51:58	ballot cast	m	old	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 18:55:31	ballot cast	m	medium	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 18:55:38	ballot cast	f	old	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 18:55:56	ballot cast	f	medium	Alexei Kouprianov	The woman throws all ballots for the couple; before that they were together in the same booth
+1559	K2	2019-09-08 18:55:56	ballot cast	m	medium	Alexei Kouprianov	could be m-o; The woman throws all ballots for the couple; before that they were together in the same booth
+1559	K2	2019-09-08 18:56:40	ballot cast	m	old	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 18:57:52	ballot cast	f	medium	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 18:58:40	ballot cast	f	old	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 18:59:06	ballot cast	m	young	Alexei Kouprianov	could be y-m; 190000 = 102710
+1559	K2	2019-09-08 19:04:49	ballot cast	f	young	Alexei Kouprianov	could be y-m
+1559	K2	2019-09-08 19:05:43	ballot cast	f	medium	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 19:12:04	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 19:14:17	ballot cast	f	medium	Alexei Kouprianov	could be y-m
+1559	K2	2019-09-08 19:14:55	ballot cast	m	medium	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 19:15:37	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 19:18:18	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 19:20:51	ballot cast	f	medium	Alexei Kouprianov	could be y-m
+1559	K2	2019-09-08 19:21:50	ballot cast	m	medium	Alexei Kouprianov	could be y-m
+1559	K2	2019-09-08 19:21:50	strange behaviour			Alexei Kouprianov	The house party returns
+1559	K2	2019-09-08 19:26:09	ballot cast	f	medium	Alexei Kouprianov	The kid who came with the woman throws the ballot for her.
+1559	K2	2019-09-08 19:27:17	ballot cast	m	young	Alexei Kouprianov	could be y-m
+1559	K2	2019-09-08 19:28:09	ballot cast	m	young	Alexei Kouprianov	could be y-m
+1559	K2	2019-09-08 19:29:38	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 19:32:46	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 19:34:31	ballot cast	m	medium	Alexei Kouprianov	The kid who came with the man does not throw the ballot for him.
+1559	K2	2019-09-08 19:36:36	ballot cast	m	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 19:38:56	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 19:44:11	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 19:45:34	ballot cast	f	young	Alexei Kouprianov	gender assumption doubtful
+1559	K2	2019-09-08 19:47:58	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 19:53:25	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 19:53:46	ballot cast	m	young	Alexei Kouprianov	
+1559	K2	2019-09-08 19:55:31	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 19:55:42	ballot cast	f	old	Alexei Kouprianov	
+1559	K2	2019-09-08 19:55:49	ballot cast	f	young	Alexei Kouprianov	
+1559	K2	2019-09-08 19:57:14	ballot cast	f	medium	Alexei Kouprianov	
+1559	K2	2019-09-08 19:59:21	ballot cast	m	old	Alexei Kouprianov	could be m-o
+1559	K2	2019-09-08 19:59:24	ballot cast	m	young	Alexei Kouprianov	gender assumption doubtful; ends throwing at 200000 sharp = 112710
+2112		2019-09-08 8:38:02	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 8:42:51	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 8:44:55	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 8:50:17	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 8:50:35	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 8:51:19	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 8:52:34	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 8:53:21	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 8:53:52	lacune begins			Borys Sharov	Lag in the video 8:53:52 - 9:10:40
+2112		2019-09-08 9:10:40	lacune ends			Borys Sharov	Lag in the video 8:53:52 - 9:10:40
+2112		2019-09-08 9:14:07	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 9:15:39	ballot cast	m	medium	Borys Sharov	With a kid
+2112		2019-09-08 9:16:17	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 9:19:36	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 9:26:48	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 9:28:47	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 9:30:37	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 9:30:42	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 9:33:26	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 9:33:28	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 9:38:07	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 9:39:27	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 9:43:20	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 9:43:49	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 9:48:22	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 9:59:43	ballot cast	f	medium	Borys Sharov	she put the ballots at 10:00:42 for her father/husband
+2112		2019-09-08 10:00:42	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 10:02:28	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 10:02:56	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 10:05:40	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 10:12:44	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 10:13:28	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 10:15:22	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 10:16:03	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 10:18:40	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 10:21:26	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 10:21:42	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 10:21:59	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 10:22:10	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 10:22:45	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 10:22:51	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 10:26:13	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 10:27:09	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 10:27:21	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 10:27:44	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 10:29:18	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 10:30:18	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 10:30:26	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 10:30:31	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 10:30:40	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 10:32:41	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 10:33:27	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 10:34:12	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 10:35:36	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 10:35:49	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 10:36:21	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 10:38:18	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 10:40:03	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 10:40:03	ballot cast	m	old	Borys Sharov	put the ballots into the box for himself and his wife
+2112		2019-09-08 10:40:14	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 10:41:37	ballot cast	m	medium	Borys Sharov	with a kid
+2112		2019-09-08 10:42:46	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 10:45:02	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 10:45:07	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 10:47:51	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 10:48:27	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 10:49:05	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 10:49:08	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 10:49:17	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 10:49:39	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 10:50:21	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 10:51:03	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 10:52:47	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 10:54:15	ballot cast	m	old	Borys Sharov	with a kid
+2112		2019-09-08 10:54:30	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 10:56:47	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 10:57:15	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 10:59:25	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 11:02:39	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 11:04:04	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 11:04:49	ballot cast	f	young	Borys Sharov	with kids
+2112		2019-09-08 11:04:55	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 11:05:09	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 11:06:11	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 11:06:43	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 11:09:45	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 11:10:18	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 11:12:45	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 11:12:52	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 11:18:58	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 11:20:04	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 11:21:05	ballot cast	f	medium	Borys Sharov	with a kid, took selfie
+2112		2019-09-08 11:21:30	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 11:21:46	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 11:21:57	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 11:22:56	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 11:23:22	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 11:23:28	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 11:24:35	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 11:24:41	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 11:24:52	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 11:25:51	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 11:26:05	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 11:26:15	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 11:26:43	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 11:32:47	ballot cast	m	old	Borys Sharov	Lag in the video 11:26:58 - 11:32:48
+2112		2019-09-08 11:35:15	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 11:36:20	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 11:37:43	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 11:39:50	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 11:40:32	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 11:40:51	ballot cast	f	medium	Borys Sharov	with kids
+2112		2019-09-08 11:40:58	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 11:41:25	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 11:41:32	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 11:43:39	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 11:44:19	ballot cast	f	medium	Borys Sharov	with kids, who put the ballots into the box
+2112		2019-09-08 11:44:19	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 11:44:28	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 11:44:35	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 11:44:40	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 11:46:06	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 11:46:41	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 11:46:45	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 11:47:42	ballot cast	m	young	Borys Sharov	put the ballots into the box for himself and his wife
+2112		2019-09-08 11:47:42	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 11:47:44	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 11:47:57	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 11:49:02	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 11:49:50	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 11:50:06	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 11:50:16	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 11:51:47	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 11:52:59	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 11:53:08	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 11:54:00	ballot cast	m	young	Borys Sharov	with 1 son, who put all the ballots into the box
+2112		2019-09-08 11:54:00	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 11:54:00	ballot cast	f	young	Borys Sharov	
+2112		08.09.2019 11:54:53	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 11:55:01	ballot cast	f	medium	Borys Sharov	with kids
+2112		2019-09-08 11:55:08	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 11:55:37	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 11:55:58	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 11:59:25	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 11:01:02	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 11:02:48	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 11:03:32	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 11:04:14	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 12:05:44	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 12:06:53	ballot cast	f	old	Borys Sharov	with a kid
+2112		2019-09-08 12:08:56	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 12:09:28	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 12:10:39	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 12:12:10	ballot cast	m	old	Borys Sharov	with a kid
+2112		2019-09-08 12:12:23	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 12:12:28	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 12:12:40	ballot cast	f	old	Borys Sharov	put the ballots into the bo for herself and her friend
+2112		09-09-2019 12:12:40	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:13:30	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 12:15:32	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 12:16:10	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 12:18:17	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 12:18:29	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:19:10	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 12:22:11	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 12:23:40	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:25:05	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:25:14	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 12:26:08	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:26:26	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:26:37	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 12:26:46	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:26:51	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 12:27:07	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 12:27:51	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 12:29:19	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:29:43	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:30:05	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:30:16	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 12:30:28	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:31:42	ballot cast	f	old	Borys Sharov	with a kid, who put all the ballots into the box
+2112		2019-09-08 12:31:42	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 12:33:10	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 12:33:18	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 12:33:57	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 12:34:20	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:34:46	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:35:00	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 12:37:52	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:38:59	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 12:39:20	ballot cast	m	medium	Borys Sharov	with a kid
+2112		2019-09-08 12:40:37	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 12:41:25	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 12:43:13	ballot cast	f	old	Borys Sharov	
+2112		08.09.2019 12:43:41	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:43:54	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:44:06	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 12:44:31	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:45:43	ballot cast	f	medium	Borys Sharov	with a kid
+2112		2019-09-08 12:46:30	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 12:46:48	ballot cast	m	medium	Borys Sharov	with a kid
+2112		2019-09-08 12:47:12	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 12:48:57	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:50:37	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 12:51:00	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 12:51:14	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 12:53:11	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 12:53:14	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 12:53:22	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 12:54:21	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 13:02:33	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 13:02:46	ballot cast	m	medium	Borys Sharov	with kids
+2112		2019-09-08 13:03:15	ballot cast	f	old	Borys Sharov	with a kid, made selfie, the kid put the ballot into the box
+2112		2019-09-08 13:05:58	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 13:07:54	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 13:07:09	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 13:08:07	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 13:08:41	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 13:09:54	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 13:10:21	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 13:11:01	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 13:11:17	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 13:11:29	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 13:14:17	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 13:15:27	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 13:15:33	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 13:15:53	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 13:19:26	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 13:19:48	ballot cast	m	old	Borys Sharov	put for himself and his wife
+2112		2019-09-08 13:19:48	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 13:22:19	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 13:23:41	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 13:23:49	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 13:27:27	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 13:27:34	ballot cast	f	young	Borys Sharov	with a kid
+2112		2019-09-08 13:29:25	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 13:30:11	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 13:32:21	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 13:34:29	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 13:35:09	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 13:37:51	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 13:39:09	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 13:39:43	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 13:39:50	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 13:40:46	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 13:41:14	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 13:42:44	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 13:43:03	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 13:43:35	ballot cast	f	medium	Borys Sharov	with a kid
+2112		2019-09-08 13:45:51	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 13:37:11	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 13:48:27	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 13:48:32	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 13:50:51	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 13:51:29	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 13:52:38	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 13:54:10	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 13:55:00	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 13:56:04	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 13:57:18	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 13:58:04	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 13:58:54	ballot cast	f	old	Borys Sharov	put the ballots into the box for herself and her husband
+2112		2019-09-08 13:59:02	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 14:00:53	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 14:04:42	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 14:04:51	ballot cast	f	medium	Borys Sharov	put the ballots into the box for herself and her friend
+2112		2019-09-08 14:04:58	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 14:07:07	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 14:07:16	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 14:07:26	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 14:07:34	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 14:08:16	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 14:09:04	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 14:09:32	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 14:14:16	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 14:14:54	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 14:15:04	ballot cast	f	medium	Borys Sharov	put the ballot into the box for herself and her husband
+2112		2019-09-08 14:15:04	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 14:18:18	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 14:20:21	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 14:21:02	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 14:23:20	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 14:24:06	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 14:24:19	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 14:25:17	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 14:25:23	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 14:26:52	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 14:28:10	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 14:28:22	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 14:28:51	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 14:35:28	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 14:35:35	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 14:36:18	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 14:36:32	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 14:37:50	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 14:39:03	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 14:39:20	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 14:45:32	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 14:51:38	ballot cast	f	old	Borys Sharov	put the ballots for herself and her husband
+2112		09-09-2019 14:51:38	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 14:56:36	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 15:00:49	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 15:00:52	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 15:07:07	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 15:11:16	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 15:13:46	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 15:14:16	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 15:15:36	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 15:15:46	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 15:16:04	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 15:16:12	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 15:19:34	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 15:22:56	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 15:23:44	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 15:24:02	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 15:27:05	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 15:27:15	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 15:28:33	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 15:30:38	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 15:33:53	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 15:37:01	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 15:39:14	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 15:39:23	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 15:46:51	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 15:46:56	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 15:47:19	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 15:47:29	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 15:57:04	ballot cast	m	old	Borys Sharov	put the ballots into the box for himself and his wife
+2112		09-09-2019 15:57:04	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 15:57:15	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 15:57:21	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 16:00:20	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 16:03:16	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 16:03:54	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 16:05:38	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 16:07:12	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 16:09:42	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 16:10:20	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 16:10:32	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 16:11:12	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 16:16:02	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 16:19:20	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 16:25:05	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 16:28:46	ballot cast	f	old	Borys Sharov	put the ballots for herself and her husband
+2112		2019-09-08 16:28:46	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 16:29:30	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 16:30:47	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 16:38:38	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 16:47:30	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 16:47:37	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 16:48:01	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 16:52:57	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 16:55:31	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 17:00:35	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 17:00:42	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 17:01:39	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 17:02:47	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 17:07:15	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 17:09:05	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 17:12:43	ballot cast	m	medium	Borys Sharov	with kids and a baby. He put the ballots for himself and his wife
+2112		2019-09-08 17:12:43	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 17:12:59	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 17:13:08	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 17:13:45	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 17:18:23	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 17:20:07	ballot cast	f	medium	Borys Sharov	with a kid
+2112		2019-09-08 17:20:27	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 17:20:37	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 17:21:27	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 17:24:09	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 17:25:23	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 17:28:29	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 17:29:07	ballot cast	f	young	Borys Sharov	with a kid, the kid puts the ballots for both of them
+2112		2019-09-08 17:29:07	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 17:31:27	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 17:31:33	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 17:36:51	ballot cast	m	medium	Borys Sharov	with a kid. put the ballots for himself and his wife
+2112		2019-09-08 17:36:51	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 17:40:32	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 17:42:02	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 17:43:03	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 17:46:48	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 17:51:33	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 17:53:05	ballot cast	f	medium	Borys Sharov	with a kid
+2112		2019-09-08 17:54:29	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 17:54:42	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 17:57:51	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 18:03:18	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 18:03:58	ballot cast	f	young	Borys Sharov	with kids, they put the ballots into the box
+2112		2019-09-08 18:03:58	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 18:10:08	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 18:13:13	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 18:13:56	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 18:16:32	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 18:17:18	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 18:18:52	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 18:20:46	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 18:23:00	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 18:30:35	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 18:32:10	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 18:32:44	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 18:36:44	ballot cast	f	medium	Borys Sharov	with a kid. Put the ballots for herself and her husband
+2112		2019-09-08 18:36:44	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 18:40:55	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 18:41:32	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 18:41:37	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 18:42:02	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 18:42:09	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 18:43:42	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 18:43:52	ballot cast	m	medium	Borys Sharov	with a baby
+2112		2019-09-08 18:47:46	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 18:51:30	strange behavior			Borys Sharov	18:51:30 - a member of the road police makes funny things in the front of the camera :D
+2112		2019-09-08 18:52:14	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 18:52:31	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 18:53:00	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 18:54:21	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 18:54:38	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 18:54:45	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 18:57:06	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 18:58:35	ballot cast	f	young	Borys Sharov	
+2112		2019-09-08 19:03:22	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 19:03:27	ballot cast	f	old	Borys Sharov	put the ballots for herself and her husband
+2112		2019-09-08 19:03:27	ballot cast	m	old	Borys Sharov	
+2112		2019-09-08 19:04:55	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 19:07:32	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 19:12:03	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 19:15:33	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 19:19:30	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 19:25:50	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 19:29:26	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 19:31:46	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 19:32:51	ballot cast	m	young	Borys Sharov	
+2112		2019-09-08 19:33:05	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 19:38:14	ballot cast	m	medium	Borys Sharov	
+2112		2019-09-08 19:46:30	ballot cast	m	medium	Borys Sharov	with a kid
+2112		2019-09-08 19:46:46	ballot cast	f	medium	Borys Sharov	
+2112		2019-09-08 19:46:56	ballot cast	f	medium	Borys Sharov	with kids
+2112		2019-09-08 19:48:50	ballot cast	f	young	Borys Sharov	with a kid. Put the ballots for herself and her husband
+2112		2019-09-08 19:50:22	ballot cast	f	old	Borys Sharov	
+2112		2019-09-08 19:57:29	strange behavior			Borys Sharov	 19:57:29 - the members of the commission started to move tables before the end of the voting time
