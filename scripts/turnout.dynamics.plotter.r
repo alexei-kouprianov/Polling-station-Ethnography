@@ -1,4 +1,7 @@
-# Reading data;
+################################################################
+# Reading data
+################################################################
+
 ps <- read.table("../data/ps.log.txt", h=TRUE, sep="\t")
 
 breaks.05 <- read.table("../misc/breaks.0800_2100.05.txt", h=TRUE, sep="\t")
@@ -9,12 +12,10 @@ breaks.30 <- read.table("../misc/breaks.0800_2100.30.txt", h=TRUE, sep="\t")
 breaks.60 <- read.table("../misc/breaks.0800_2100.60.txt", h=TRUE, sep="\t")
 
 ################################################################
-################################################################
 # Basic data transformations
 ################################################################
-################################################################
 
-# Trimming timestamps
+# Trimming timestamps;
 ps$timecode <- strptime(ps$TIMECODE, "%Y-%m-%d %H:%M:%S")
 breaks.05$timecode <- strptime(breaks.05$BREAKS, "%Y-%m-%d %H:%M:%S")
 breaks.10$timecode <- strptime(breaks.10$BREAKS, "%Y-%m-%d %H:%M:%S")
@@ -41,6 +42,10 @@ for(i in 1:length(ps.UIDs)){
 	)
 	names(ps.ls[[i]]) <- c("ps.raw", "ps.b", "ps.lb", "ps.le", "ps.bf", "ps.bm")
 }
+
+################################################################
+# Control plots
+################################################################
 
 # Control plot # 1
 for(i in 1:length(ps.UIDs)){
@@ -163,6 +168,12 @@ for(i in 1:length(ps.UIDs)){
 	dev.off()
 }
 
+################################################################
+# Analytic tables
+################################################################
+
+# Contingency table for 60 min (1 hr) intervals
+
 timecode.hist.60.contingency <- NULL
 
 for(i in 1:length(ps.UIDs)){
@@ -173,3 +184,18 @@ rownames(timecode.hist.60.contingency) <- ps.UIDs
 colnames(timecode.hist.60.contingency) <- c("HR.08.09","HR.09.10","HR.10.11","HR.11.12","HR.12.13","HR.13.14","HR.14.15","HR.15.16","HR.16.17","HR.17.18","HR.18.19","HR.19.20","HR.20.21")
 
 if(sum(timecode.hist.60.contingency$HR.20.21)==0){timecode.hist.60.contingency$HR.20.21 <- NULL}
+
+# Summary table and gender balance table
+
+ps.summary.df <- NULL
+gender.contingency <- NULL
+
+for(i in 1:length(ps.UIDs)){
+ps.summary.df <- rbind.data.frame(ps.summary.df, c(ps.UIDs[i], nrow(ps.ls[[i]]$ps.b), nrow(ps.ls[[i]]$ps.bf), nrow(ps.ls[[i]]$ps.bm)))
+gender.contingency <- rbind.data.frame(gender.contingency, c(nrow(ps.ls[[i]]$ps.bf), nrow(ps.ls[[i]]$ps.bm)))
+}
+
+colnames(ps.summary.df) <- c("PS.UID","TOTAL","WOMEN","MEN")
+
+colnames(gender.contingency) <- c("WOMEN","MEN")
+rownames(gender.contingency) <- ps.UIDs
